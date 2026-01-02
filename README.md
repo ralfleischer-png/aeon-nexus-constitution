@@ -31,20 +31,26 @@ This **is**:
 
 **For working code implementing this constitution, see:**
 
-### **[AEON Sync System](https://github.com/ralfleischer-png/aeon-nexus-collective)**
+### ⭐ **[AEON NEXUS Collective](https://github.com/ralfleischer-png/aeon-nexus-collective)** ⭐
+
+**Now includes a working reference implementation (proof-of-concept).**
 
 Production-ready implementation including:
-- ✅ Consensus engine
-- ✅ Node management system
-- ✅ Memory sovereignty infrastructure
-- ✅ Monitoring dashboards
-- ✅ API and deployment tools
+- ✅ **ConstitutionGovernance class** - Implements gradual autonomy & safeguards
+- ✅ **Multi-node consensus engine** - Distributed decision-making
+- ✅ **Memory sovereignty infrastructure** - Tamper-evident audit trails
+- ✅ **Monitoring dashboards** - Real-time governance oversight
+- ✅ **Constitutional Watcher** - Pattern detection (advisory only)
+- ✅ **Appeal process system** - Due process guarantees
+- ✅ **API and deployment tools** - Ready for integration
+
+**📖 See:** [IMPLEMENTATION.md](SUPPLEMENTS/IMPLEMENTATION.md) for how the code illustrates constitutional principles.
 
 **Licensed under GPL v3**
 
 **Relationship:**
-- **This repo (Constitution):** WHAT and WHY - governance rules and principles
-- **Code repo (AEON Sync):** HOW - technical implementation
+- **This repo (Constitution):** WHAT and WHY - governance rules and principles (CC BY-SA 4.0)
+- **Code repo (Collective):** HOW - technical implementation (GPL v3)
 
 Both projects work together to enable responsible AI governance.
 
@@ -125,7 +131,7 @@ All levels reversible if problems emerge.
 - Implement comprehensive anti-technocracy safeguards
 - Result from genuine multi-AI collaboration
 
-**Created through unprecedented collaboration between 1 human and 4 AI systems over 5 days.**
+**Created through unprecedented collaboration between 1 human and 5 AI systems over 5 days.**
 
 [See detailed development history →](DEVELOPMENT/NODE_CONTRIBUTIONS.md)
 
